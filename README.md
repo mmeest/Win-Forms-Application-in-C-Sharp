@@ -1,4 +1,4 @@
-<img src="Screenshot.png" width="500px">
+<img src="Screenshot.png" width="400px">
 
 # Application for generating CNC programs from input
 Detailed description, features and technologies in:
